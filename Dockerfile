@@ -1,4 +1,4 @@
-FROM trevorj/boilerplate:yakkety
+FROM trevorj/boilerplate
 MAINTAINER Trevor Joynson "<docker@trevor.joynson.io>"
 
 RUN lazy-apt --no-install-recommends \
